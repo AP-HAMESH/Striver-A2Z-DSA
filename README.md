@@ -15,4 +15,12 @@ Daily DSA practice
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
