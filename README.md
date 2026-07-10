@@ -20,6 +20,7 @@ Daily DSA practice
 | ------- |
 | [0020-valid-parentheses](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0402-remove-k-digits) |
 ## Design
 |  |
 | ------- |
@@ -28,4 +29,13 @@ Daily DSA practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
