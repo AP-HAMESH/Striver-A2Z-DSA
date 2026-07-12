@@ -36,6 +36,7 @@ Daily DSA practice
 | ------- |
 | [0402-remove-k-digits](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0860-lemonade-change) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Daily DSA practice
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
