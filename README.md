@@ -31,6 +31,7 @@ Daily DSA practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
@@ -56,5 +57,10 @@ Daily DSA practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0678-valid-parenthesis-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
