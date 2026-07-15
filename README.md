@@ -63,4 +63,12 @@ Daily DSA practice
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
