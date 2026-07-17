@@ -66,6 +66,7 @@ Daily DSA practice
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/1922-count-good-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -75,5 +76,10 @@ Daily DSA practice
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/1922-count-good-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
