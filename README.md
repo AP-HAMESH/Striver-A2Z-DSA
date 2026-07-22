@@ -53,6 +53,7 @@ Daily DSA practice
 | ------- |
 | [0039-combination-sum](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0496-next-greater-element-i) |
 | [0860-lemonade-change](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0860-lemonade-change) |
@@ -71,6 +72,7 @@ Daily DSA practice
 | [0022-generate-parentheses](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0216-combination-sum-iii) |
 ## Math
 |  |
 | ------- |
