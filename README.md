@@ -21,6 +21,7 @@ Daily DSA practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0496-next-greater-element-i) |
@@ -94,4 +95,16 @@ Daily DSA practice
 | ------- |
 | [0029-divide-two-integers](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0231-power-of-two) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AP-HAMESH/Striver-A2Z-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
