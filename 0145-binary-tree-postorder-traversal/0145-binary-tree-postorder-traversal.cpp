@@ -1,47 +1,28 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-
     vector<int> postorderTraversal(TreeNode* root) {
-    vector<int> postorder;
-    if(root==NULL)
-    return postorder;
+        vector<int> ans;
+        stack<TreeNode*> st;
+        TreeNode* curr=root;
+        TreeNode* prev=nullptr;
 
-    stack<TreeNode*> st1,st2;
+        while(curr||!st.empty()) {
+            while(curr) {
+                st.push(curr);
+                curr=curr->left;
+            }
 
-    st1.push(root);
+            TreeNode* node=st.top();
 
-    while(!st1.empty())
-    {
-        TreeNode* node=st1.top();
-        st1.pop();
-        st2.push(node);
-        if(node->left!=NULL)
-        {
-            st1.push(node->left);
+            if(node->right&&node->right!=prev) {
+                curr=node->right;
+            } else {
+                ans.push_back(node->val);
+                prev=node;
+                st.pop();
+            }
         }
-        if(node->right!=NULL)
-        {
-            st1.push(node->right);
-        }
-    }
 
-    while(!st2.empty())
-    {
-        postorder.push_back(st2.top()->val);
-        st2.pop();
-    }
-    return postorder;
-
+        return ans;
     }
 };
