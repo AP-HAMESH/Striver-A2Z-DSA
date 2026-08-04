@@ -9,8 +9,7 @@ public:
         while(curr||!st.empty()) {
             while(curr) {
                 st.push(curr);
-                curr=curr->left;
-            }
+                curr=curr->left;}
 
             TreeNode* node=st.top();
 
