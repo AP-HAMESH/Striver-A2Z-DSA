@@ -11,36 +11,20 @@
  */
 class Solution {
 public:
-    int findLH(TreeNode* root)
+    int find(TreeNode* root)
     {
-        if(root==NULL)
-        return  0;
+       if(root==NULL)
+       return 0;
 
-        return 1+max(findLH(root->left),findLH(root->right));
-    }
-    int findRH(TreeNode* root)
-    {
-         if(root==NULL)
-        return  0;
+       int left=find(root->left);
+       int right=find(root->right);
 
-        return 1+max(findRH(root->left),findRH(root->right));
+       if((left==-1)||(right==-1)||(abs(left-right)>1))
+       return -1;
+
+       return 1+max(left,right);
     }
     bool isBalanced(TreeNode* root) {
-        if(root==NULL)
-        return true;
-
-        int lh=findLH(root->left);
-        int rh=findRH(root->right);
-
-        if(abs(rh-lh)>1)
-        return false;
-
-        bool left= isBalanced(root->left);
-        bool right= isBalanced(root->right);
-
-        if(!(left&right))
-        return false;
-
-        return true;
+    return find(root)!=-1;
     }
 };
